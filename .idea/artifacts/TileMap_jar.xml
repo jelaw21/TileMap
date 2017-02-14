@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TileMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TileMap_jar</output-path>
+    <root id="archive" name="TileMap.jar">
+      <element id="module-output" name="TileMap" />
+    </root>
+  </artifact>
+</component>
